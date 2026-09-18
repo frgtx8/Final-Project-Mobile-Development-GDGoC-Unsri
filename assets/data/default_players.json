@@ -1,0 +1,2916 @@
+[
+  {
+    "id": "p-001",
+    "name": "Erling Haaland",
+    "club": "Manchester B (Man City)",
+    "nationality": "Norway",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "SS"
+    ],
+    "overall_rating": 97,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 91,
+      "shooting": 95,
+      "passing": 70,
+      "dribbling": 78,
+      "defending": 45,
+      "physical": 94
+    },
+    "skills": [
+      "First-time Shot",
+      "Acrobatic Finishing",
+      "Heading",
+      "Super-sub"
+    ]
+  },
+  {
+    "id": "p-002",
+    "name": "Kylian Mbappé",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "France",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "CF",
+      "SS",
+      "LMF"
+    ],
+    "overall_rating": 98,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 98,
+      "shooting": 92,
+      "passing": 82,
+      "dribbling": 94,
+      "defending": 39,
+      "physical": 82
+    },
+    "skills": [
+      "Double Touch",
+      "Speeding Bullet",
+      "Knuckle Shot",
+      "Dipping Shot"
+    ]
+  },
+  {
+    "id": "p-003",
+    "name": "Lionel Messi",
+    "club": "Inter Miami",
+    "nationality": "Argentina",
+    "primary_position": "RWF",
+    "secondary_positions": [
+      "CF",
+      "SS",
+      "AMF"
+    ],
+    "overall_rating": 98,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 83,
+      "shooting": 94,
+      "passing": 96,
+      "dribbling": 97,
+      "defending": 38,
+      "physical": 75
+    },
+    "skills": [
+      "Through Passing",
+      "Sole Control",
+      "Long Range Curler",
+      "Captaincy"
+    ]
+  },
+  {
+    "id": "p-004",
+    "name": "Harry Kane",
+    "club": "Bayern München",
+    "nationality": "England",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "SS",
+      "AMF"
+    ],
+    "overall_rating": 96,
+    "player_playstyle": "Deep-Lying Forward",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 76,
+      "shooting": 96,
+      "passing": 87,
+      "dribbling": 81,
+      "defending": 48,
+      "physical": 86
+    },
+    "skills": [
+      "First-time Shot",
+      "Through Passing",
+      "Long Range Shooting",
+      "Penalty Specialist"
+    ]
+  },
+  {
+    "id": "p-005",
+    "name": "Robert Lewandowski",
+    "club": "Barcelona",
+    "nationality": "Poland",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "SS"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Fox in the Box",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 78,
+      "shooting": 94,
+      "passing": 75,
+      "dribbling": 82,
+      "defending": 42,
+      "physical": 85
+    },
+    "skills": [
+      "Acrobatic Finishing",
+      "Heading",
+      "First-time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-006",
+    "name": "Lautaro Martínez",
+    "club": "Inter Milano",
+    "nationality": "Argentina",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "SS"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 85,
+      "shooting": 91,
+      "passing": 76,
+      "dribbling": 86,
+      "defending": 50,
+      "physical": 84
+    },
+    "skills": [
+      "First-time Shot",
+      "Fighting Spirit",
+      "Acrobatic Finishing",
+      "Captaincy"
+    ]
+  },
+  {
+    "id": "p-007",
+    "name": "Victor Osimhen",
+    "club": "Galatasaray",
+    "nationality": "Nigeria",
+    "primary_position": "CF",
+    "secondary_positions": [],
+    "overall_rating": 93,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 93,
+      "shooting": 89,
+      "passing": 68,
+      "dribbling": 79,
+      "defending": 40,
+      "physical": 88
+    },
+    "skills": [
+      "Heading",
+      "Acrobatic Finishing",
+      "Fighting Spirit",
+      "First-time Shot"
+    ]
+  },
+  {
+    "id": "p-008",
+    "name": "Antoine Griezmann",
+    "club": "Atlético Madrid",
+    "nationality": "France",
+    "primary_position": "SS",
+    "secondary_positions": [
+      "CF",
+      "AMF",
+      "RWF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Hole Player",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 81,
+      "shooting": 88,
+      "passing": 89,
+      "dribbling": 87,
+      "defending": 62,
+      "physical": 76
+    },
+    "skills": [
+      "Through Passing",
+      "First-time Shot",
+      "Long Range Shooting",
+      "Track Back"
+    ]
+  },
+  {
+    "id": "p-009",
+    "name": "Cristiano Ronaldo",
+    "club": "Al Nassr",
+    "nationality": "Portugal",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "LWF",
+      "SS"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 81,
+      "shooting": 94,
+      "passing": 77,
+      "dribbling": 82,
+      "defending": 36,
+      "physical": 86
+    },
+    "skills": [
+      "Heading",
+      "Knuckle Shot",
+      "Acrobatic Finishing",
+      "Captaincy"
+    ]
+  },
+  {
+    "id": "p-010",
+    "name": "Julián Álvarez",
+    "club": "Atlético Madrid",
+    "nationality": "Argentina",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "SS",
+      "AMF",
+      "LWF",
+      "RWF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 87,
+      "shooting": 88,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 56,
+      "physical": 79
+    },
+    "skills": [
+      "First-time Shot",
+      "Fighting Spirit",
+      "Track Back",
+      "Double Touch"
+    ]
+  },
+  {
+    "id": "p-011",
+    "name": "Alexander Isak",
+    "club": "Newcastle United",
+    "nationality": "Sweden",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "LWF",
+      "SS"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 90,
+      "shooting": 88,
+      "passing": 75,
+      "dribbling": 87,
+      "defending": 38,
+      "physical": 79
+    },
+    "skills": [
+      "Double Touch",
+      "First-time Shot",
+      "Long Range Curler",
+      "Heel Trick"
+    ]
+  },
+  {
+    "id": "p-012",
+    "name": "Darwin Núñez",
+    "club": "Liverpool",
+    "nationality": "Uruguay",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "LWF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 93,
+      "shooting": 85,
+      "passing": 69,
+      "dribbling": 80,
+      "defending": 44,
+      "physical": 88
+    },
+    "skills": [
+      "Speeding Bullet",
+      "Fighting Spirit",
+      "Heading",
+      "First-time Shot"
+    ]
+  },
+  {
+    "id": "p-013",
+    "name": "Ollie Watkins",
+    "club": "Aston Villa",
+    "nationality": "England",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "SS",
+      "LWF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 88,
+      "shooting": 86,
+      "passing": 75,
+      "dribbling": 81,
+      "defending": 46,
+      "physical": 82
+    },
+    "skills": [
+      "First-time Shot",
+      "Fighting Spirit",
+      "Heading",
+      "Super-sub"
+    ]
+  },
+  {
+    "id": "p-014",
+    "name": "Dušan Vlahović",
+    "club": "Juventus",
+    "nationality": "Serbia",
+    "primary_position": "CF",
+    "secondary_positions": [],
+    "overall_rating": 91,
+    "player_playstyle": "Fox in the Box",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 83,
+      "shooting": 90,
+      "passing": 71,
+      "dribbling": 79,
+      "defending": 39,
+      "physical": 87
+    },
+    "skills": [
+      "Long Range Shooting",
+      "Knuckle Shot",
+      "First-time Shot",
+      "Heading"
+    ]
+  },
+  {
+    "id": "p-015",
+    "name": "Viktor Gyökeres",
+    "club": "Sporting CP",
+    "nationality": "Sweden",
+    "primary_position": "CF",
+    "secondary_positions": [
+      "SS"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Goal Poacher",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 91,
+      "shooting": 90,
+      "passing": 74,
+      "dribbling": 83,
+      "defending": 45,
+      "physical": 92
+    },
+    "skills": [
+      "First-time Shot",
+      "Fighting Spirit",
+      "Acrobatic Finishing",
+      "Heading"
+    ]
+  },
+  {
+    "id": "p-016",
+    "name": "Vinícius Júnior",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "Brazil",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "CF",
+      "SS",
+      "LMF"
+    ],
+    "overall_rating": 97,
+    "player_playstyle": "Roaming Flank",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 99,
+      "shooting": 88,
+      "passing": 82,
+      "dribbling": 97,
+      "defending": 38,
+      "physical": 79
+    },
+    "skills": [
+      "Double Touch",
+      "Flip Flap",
+      "Marseille Turn",
+      "First-time Shot"
+    ]
+  },
+  {
+    "id": "p-017",
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "nationality": "Egypt",
+    "primary_position": "RWF",
+    "secondary_positions": [
+      "CF",
+      "SS",
+      "RMF"
+    ],
+    "overall_rating": 96,
+    "player_playstyle": "Roaming Flank",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 92,
+      "shooting": 92,
+      "passing": 85,
+      "dribbling": 91,
+      "defending": 45,
+      "physical": 80
+    },
+    "skills": [
+      "Long Range Curler",
+      "First-time Shot",
+      "Outside Curler",
+      "Through Passing"
+    ]
+  },
+  {
+    "id": "p-018",
+    "name": "Bukayo Saka",
+    "club": "Arsenal",
+    "nationality": "England",
+    "primary_position": "RWF",
+    "secondary_positions": [
+      "LWF",
+      "RMF",
+      "LMF",
+      "LB"
+    ],
+    "overall_rating": 95,
+    "player_playstyle": "Prolific Winger",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 91,
+      "shooting": 87,
+      "passing": 86,
+      "dribbling": 92,
+      "defending": 58,
+      "physical": 78
+    },
+    "skills": [
+      "Cut Behind & Turn",
+      "Pinpoint Crossing",
+      "First-time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-019",
+    "name": "Son Heung-min",
+    "club": "Tottenham Hotspur",
+    "nationality": "South Korea",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "CF",
+      "SS",
+      "LMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Prolific Winger",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 90,
+      "shooting": 92,
+      "passing": 82,
+      "dribbling": 87,
+      "defending": 42,
+      "physical": 77
+    },
+    "skills": [
+      "Long Range Curler",
+      "Dipping Shot",
+      "First-time Shot",
+      "Captaincy"
+    ]
+  },
+  {
+    "id": "p-020",
+    "name": "Rodrygo",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "Brazil",
+    "primary_position": "RWF",
+    "secondary_positions": [
+      "LWF",
+      "CF",
+      "SS",
+      "AMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Prolific Winger",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 92,
+      "shooting": 87,
+      "passing": 83,
+      "dribbling": 92,
+      "defending": 46,
+      "physical": 73
+    },
+    "skills": [
+      "Double Touch",
+      "First-time Shot",
+      "Long Range Curler",
+      "Super-sub"
+    ]
+  },
+  {
+    "id": "p-021",
+    "name": "Rafael Leão",
+    "club": "AC Milan",
+    "nationality": "Portugal",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "CF",
+      "SS",
+      "LMF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Prolific Winger",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 96,
+      "shooting": 84,
+      "passing": 79,
+      "dribbling": 93,
+      "defending": 36,
+      "physical": 84
+    },
+    "skills": [
+      "Double Touch",
+      "Speeding Bullet",
+      "Knuckle Shot",
+      "Flip Flap"
+    ]
+  },
+  {
+    "id": "p-022",
+    "name": "Khvicha Kvaratskhelia",
+    "club": "Napoli",
+    "nationality": "Georgia",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "SS",
+      "AMF",
+      "LMF",
+      "RWF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Roaming Flank",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 89,
+      "shooting": 85,
+      "passing": 84,
+      "dribbling": 94,
+      "defending": 44,
+      "physical": 77
+    },
+    "skills": [
+      "Marseille Turn",
+      "Long Range Curler",
+      "Through Passing",
+      "Sole Control"
+    ]
+  },
+  {
+    "id": "p-023",
+    "name": "Lamine Yamal",
+    "club": "Barcelona",
+    "nationality": "Spain",
+    "primary_position": "RWF",
+    "secondary_positions": [
+      "LWF",
+      "RMF",
+      "AMF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 91,
+      "shooting": 83,
+      "passing": 89,
+      "dribbling": 95,
+      "defending": 42,
+      "physical": 70
+    },
+    "skills": [
+      "Double Touch",
+      "Through Passing",
+      "Pinpoint Crossing",
+      "Outside Curler"
+    ]
+  },
+  {
+    "id": "p-024",
+    "name": "Nico Williams",
+    "club": "Athletic Club",
+    "nationality": "Spain",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "RWF",
+      "LMF",
+      "RMF"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Prolific Winger",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 97,
+      "shooting": 82,
+      "passing": 81,
+      "dribbling": 91,
+      "defending": 45,
+      "physical": 74
+    },
+    "skills": [
+      "Speeding Bullet",
+      "Double Touch",
+      "Pinpoint Crossing",
+      "First-time Shot"
+    ]
+  },
+  {
+    "id": "p-025",
+    "name": "Raphinha",
+    "club": "Barcelona",
+    "nationality": "Brazil",
+    "primary_position": "RWF",
+    "secondary_positions": [
+      "LWF",
+      "AMF",
+      "RMF",
+      "CF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Roaming Flank",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 91,
+      "shooting": 87,
+      "passing": 84,
+      "dribbling": 89,
+      "defending": 55,
+      "physical": 76
+    },
+    "skills": [
+      "Fighting Spirit",
+      "Long Range Curler",
+      "First-time Shot",
+      "Track Back"
+    ]
+  },
+  {
+    "id": "p-026",
+    "name": "Ousmane Dembélé",
+    "club": "Paris Saint-Germain",
+    "nationality": "France",
+    "primary_position": "RWF",
+    "secondary_positions": [
+      "LWF",
+      "RMF",
+      "LMF"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Prolific Winger",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 96,
+      "shooting": 80,
+      "passing": 83,
+      "dribbling": 94,
+      "defending": 40,
+      "physical": 70
+    },
+    "skills": [
+      "Double Touch",
+      "Flip Flap",
+      "Through Passing",
+      "Outside Curler"
+    ]
+  },
+  {
+    "id": "p-027",
+    "name": "Leroy Sané",
+    "club": "Bayern München",
+    "nationality": "Germany",
+    "primary_position": "RWF",
+    "secondary_positions": [
+      "LWF",
+      "RMF",
+      "LMF"
+    ],
+    "overall_rating": 91,
+    "player_playstyle": "Prolific Winger",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 94,
+      "shooting": 85,
+      "passing": 80,
+      "dribbling": 90,
+      "defending": 42,
+      "physical": 76
+    },
+    "skills": [
+      "Knuckle Shot",
+      "Speeding Bullet",
+      "Long Range Shooting",
+      "Acrobatic Finishing"
+    ]
+  },
+  {
+    "id": "p-028",
+    "name": "Kingsley Coman",
+    "club": "Bayern München",
+    "nationality": "France",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "RWF",
+      "LMF",
+      "RMF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Prolific Winger",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 95,
+      "shooting": 79,
+      "passing": 80,
+      "dribbling": 91,
+      "defending": 41,
+      "physical": 72
+    },
+    "skills": [
+      "Pinpoint Crossing",
+      "Speeding Bullet",
+      "Super-sub",
+      "Double Touch"
+    ]
+  },
+  {
+    "id": "p-029",
+    "name": "Federico Chiesa",
+    "club": "Liverpool",
+    "nationality": "Italy",
+    "primary_position": "RWF",
+    "secondary_positions": [
+      "LWF",
+      "CF",
+      "SS",
+      "RMF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Roaming Flank",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 91,
+      "shooting": 84,
+      "passing": 78,
+      "dribbling": 87,
+      "defending": 48,
+      "physical": 77
+    },
+    "skills": [
+      "Fighting Spirit",
+      "Long Range Shooting",
+      "First-time Shot",
+      "Speeding Bullet"
+    ]
+  },
+  {
+    "id": "p-030",
+    "name": "Bradley Barcola",
+    "club": "Paris Saint-Germain",
+    "nationality": "France",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "RWF",
+      "CF",
+      "LMF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Prolific Winger",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 94,
+      "shooting": 81,
+      "passing": 80,
+      "dribbling": 89,
+      "defending": 42,
+      "physical": 74
+    },
+    "skills": [
+      "Double Touch",
+      "Speeding Bullet",
+      "First-time Shot",
+      "Through Passing"
+    ]
+  },
+  {
+    "id": "p-031",
+    "name": "Neymar Jr.",
+    "club": "Al Hilal",
+    "nationality": "Brazil",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "AMF",
+      "SS",
+      "CF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 86,
+      "shooting": 88,
+      "passing": 90,
+      "dribbling": 96,
+      "defending": 36,
+      "physical": 68
+    },
+    "skills": [
+      "Sombrero",
+      "Flip Flap",
+      "Through Passing",
+      "Sole Control"
+    ]
+  },
+  {
+    "id": "p-032",
+    "name": "Marcus Rashford",
+    "club": "Manchester United",
+    "nationality": "England",
+    "primary_position": "LWF",
+    "secondary_positions": [
+      "CF",
+      "SS",
+      "LMF",
+      "RWF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Roaming Flank",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 93,
+      "shooting": 88,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 43,
+      "physical": 80
+    },
+    "skills": [
+      "Knuckle Shot",
+      "Dipping Shot",
+      "Speeding Bullet",
+      "First-time Shot"
+    ]
+  },
+  {
+    "id": "p-033",
+    "name": "Kevin De Bruyne",
+    "club": "Manchester B (Man City)",
+    "nationality": "Belgium",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "CMF",
+      "RMF"
+    ],
+    "overall_rating": 97,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 76,
+      "shooting": 89,
+      "passing": 98,
+      "dribbling": 88,
+      "defending": 64,
+      "physical": 82
+    },
+    "skills": [
+      "Through Passing",
+      "Weighted Pass",
+      "Low Lofted Pass",
+      "Outside Curler"
+    ]
+  },
+  {
+    "id": "p-034",
+    "name": "Jude Bellingham",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "England",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "CMF",
+      "SS",
+      "CF",
+      "DMF"
+    ],
+    "overall_rating": 97,
+    "player_playstyle": "Hole Player",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 84,
+      "shooting": 88,
+      "passing": 89,
+      "dribbling": 91,
+      "defending": 79,
+      "physical": 88
+    },
+    "skills": [
+      "Double Touch",
+      "One-touch Pass",
+      "Interception",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-035",
+    "name": "Florian Wirtz",
+    "club": "Bayer Leverkusen",
+    "nationality": "Germany",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "SS",
+      "LWF",
+      "CMF",
+      "RWF"
+    ],
+    "overall_rating": 95,
+    "player_playstyle": "Hole Player",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 86,
+      "shooting": 86,
+      "passing": 92,
+      "dribbling": 94,
+      "defending": 54,
+      "physical": 72
+    },
+    "skills": [
+      "Through Passing",
+      "Sole Control",
+      "First-time Shot",
+      "Double Touch"
+    ]
+  },
+  {
+    "id": "p-036",
+    "name": "Jamal Musiala",
+    "club": "Bayern München",
+    "nationality": "Germany",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "LWF",
+      "CMF",
+      "SS",
+      "LMF"
+    ],
+    "overall_rating": 95,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 88,
+      "shooting": 84,
+      "passing": 88,
+      "dribbling": 97,
+      "defending": 52,
+      "physical": 74
+    },
+    "skills": [
+      "Double Touch",
+      "Flip Flap",
+      "Sole Control",
+      "Through Passing"
+    ]
+  },
+  {
+    "id": "p-037",
+    "name": "Martin Ødegaard",
+    "club": "Arsenal",
+    "nationality": "Norway",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "CMF",
+      "RWF"
+    ],
+    "overall_rating": 95,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 80,
+      "shooting": 85,
+      "passing": 95,
+      "dribbling": 92,
+      "defending": 64,
+      "physical": 74
+    },
+    "skills": [
+      "Through Passing",
+      "One-touch Pass",
+      "Captaincy",
+      "Long Range Shooting"
+    ]
+  },
+  {
+    "id": "p-038",
+    "name": "Phil Foden",
+    "club": "Manchester B (Man City)",
+    "nationality": "England",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "RWF",
+      "LWF",
+      "CMF",
+      "SS"
+    ],
+    "overall_rating": 95,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 87,
+      "shooting": 88,
+      "passing": 90,
+      "dribbling": 94,
+      "defending": 55,
+      "physical": 74
+    },
+    "skills": [
+      "Long Range Shooting",
+      "Through Passing",
+      "Sole Control",
+      "First-time Shot"
+    ]
+  },
+  {
+    "id": "p-039",
+    "name": "Cole Palmer",
+    "club": "Chelsea",
+    "nationality": "England",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "RWF",
+      "SS",
+      "CMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Hole Player",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 83,
+      "shooting": 90,
+      "passing": 91,
+      "dribbling": 92,
+      "defending": 50,
+      "physical": 76
+    },
+    "skills": [
+      "Penalty Specialist",
+      "Through Passing",
+      "First-time Shot",
+      "Long Range Curler"
+    ]
+  },
+  {
+    "id": "p-040",
+    "name": "Bruno Fernandes",
+    "club": "Manchester United",
+    "nationality": "Portugal",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "CMF",
+      "SS",
+      "RMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Hole Player",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 78,
+      "shooting": 88,
+      "passing": 94,
+      "dribbling": 86,
+      "defending": 68,
+      "physical": 79
+    },
+    "skills": [
+      "Weighted Pass",
+      "Through Passing",
+      "Captaincy",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-041",
+    "name": "Bernardo Silva",
+    "club": "Manchester B (Man City)",
+    "nationality": "Portugal",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "CMF",
+      "RWF",
+      "RMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 81,
+      "shooting": 81,
+      "passing": 92,
+      "dribbling": 95,
+      "defending": 67,
+      "physical": 72
+    },
+    "skills": [
+      "Sole Control",
+      "Through Passing",
+      "Fighting Spirit",
+      "One-touch Pass"
+    ]
+  },
+  {
+    "id": "p-042",
+    "name": "Dani Olmo",
+    "club": "Barcelona",
+    "nationality": "Spain",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "SS",
+      "LWF",
+      "CMF",
+      "RWF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Hole Player",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 83,
+      "shooting": 86,
+      "passing": 89,
+      "dribbling": 92,
+      "defending": 54,
+      "physical": 73
+    },
+    "skills": [
+      "Through Passing",
+      "First-time Shot",
+      "Double Touch",
+      "One-touch Pass"
+    ]
+  },
+  {
+    "id": "p-043",
+    "name": "Dominik Szoboszlai",
+    "club": "Liverpool",
+    "nationality": "Hungary",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "CMF",
+      "RMF",
+      "RWF"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Box-to-Box",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 87,
+      "shooting": 88,
+      "passing": 89,
+      "dribbling": 87,
+      "defending": 62,
+      "physical": 82
+    },
+    "skills": [
+      "Long Range Shooting",
+      "Knuckle Shot",
+      "Dipping Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-044",
+    "name": "James Maddison",
+    "club": "Tottenham Hotspur",
+    "nationality": "England",
+    "primary_position": "AMF",
+    "secondary_positions": [
+      "CMF",
+      "LWF"
+    ],
+    "overall_rating": 91,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 80,
+      "shooting": 84,
+      "passing": 91,
+      "dribbling": 89,
+      "defending": 53,
+      "physical": 72
+    },
+    "skills": [
+      "Through Passing",
+      "Long Range Curler",
+      "One-touch Pass",
+      "Outside Curler"
+    ]
+  },
+  {
+    "id": "p-045",
+    "name": "Federico Valverde",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "Uruguay",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "RMF",
+      "RB",
+      "DMF",
+      "RW"
+    ],
+    "overall_rating": 96,
+    "player_playstyle": "Box-to-Box",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 92,
+      "shooting": 87,
+      "passing": 88,
+      "dribbling": 86,
+      "defending": 81,
+      "physical": 89
+    },
+    "skills": [
+      "Long Range Shooting",
+      "Knuckle Shot",
+      "Interception",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-046",
+    "name": "Nicolò Barella",
+    "club": "Inter Milano",
+    "nationality": "Italy",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "AMF",
+      "RMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Box-to-Box",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 83,
+      "shooting": 79,
+      "passing": 89,
+      "dribbling": 88,
+      "defending": 80,
+      "physical": 82
+    },
+    "skills": [
+      "Fighting Spirit",
+      "Interception",
+      "One-touch Pass",
+      "Track Back"
+    ]
+  },
+  {
+    "id": "p-047",
+    "name": "Frenkie de Jong",
+    "club": "Barcelona",
+    "nationality": "Netherlands",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "CB",
+      "AMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Orchestrator",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 82,
+      "shooting": 74,
+      "passing": 92,
+      "dribbling": 93,
+      "defending": 78,
+      "physical": 81
+    },
+    "skills": [
+      "Through Passing",
+      "Sole Control",
+      "One-touch Pass",
+      "Interception"
+    ]
+  },
+  {
+    "id": "p-048",
+    "name": "Eduardo Camavinga",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "France",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "LB",
+      "LMF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Box-to-Box",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 85,
+      "shooting": 73,
+      "passing": 87,
+      "dribbling": 88,
+      "defending": 84,
+      "physical": 85
+    },
+    "skills": [
+      "Interception",
+      "Blocker",
+      "Through Passing",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-049",
+    "name": "Alexis Mac Allister",
+    "club": "Liverpool",
+    "nationality": "Argentina",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "AMF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Orchestrator",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 76,
+      "shooting": 83,
+      "passing": 92,
+      "dribbling": 87,
+      "defending": 77,
+      "physical": 79
+    },
+    "skills": [
+      "Through Passing",
+      "Weighted Pass",
+      "Long Range Shooting",
+      "Interception"
+    ]
+  },
+  {
+    "id": "p-050",
+    "name": "Pedri",
+    "club": "Barcelona",
+    "nationality": "Spain",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "AMF",
+      "LWF",
+      "DMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Creative Playmaker",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 81,
+      "shooting": 76,
+      "passing": 94,
+      "dribbling": 94,
+      "defending": 70,
+      "physical": 72
+    },
+    "skills": [
+      "Through Passing",
+      "Sole Control",
+      "One-touch Pass",
+      "Weighted Pass"
+    ]
+  },
+  {
+    "id": "p-051",
+    "name": "Gavi",
+    "club": "Barcelona",
+    "nationality": "Spain",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "AMF",
+      "LWF",
+      "RMF"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Box-to-Box",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 82,
+      "shooting": 74,
+      "passing": 87,
+      "dribbling": 89,
+      "defending": 76,
+      "physical": 79
+    },
+    "skills": [
+      "Fighting Spirit",
+      "Track Back",
+      "Interception",
+      "Through Passing"
+    ]
+  },
+  {
+    "id": "p-052",
+    "name": "Vitinha",
+    "club": "Paris Saint-Germain",
+    "nationality": "Portugal",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "AMF"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Orchestrator",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 81,
+      "shooting": 77,
+      "passing": 91,
+      "dribbling": 90,
+      "defending": 73,
+      "physical": 74
+    },
+    "skills": [
+      "Sole Control",
+      "Through Passing",
+      "One-touch Pass",
+      "Interception"
+    ]
+  },
+  {
+    "id": "p-053",
+    "name": "Luka Modrić",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "Croatia",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "AMF",
+      "DMF"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Orchestrator",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 74,
+      "shooting": 79,
+      "passing": 94,
+      "dribbling": 91,
+      "defending": 71,
+      "physical": 70
+    },
+    "skills": [
+      "Outside Curler",
+      "Through Passing",
+      "Captaincy",
+      "One-touch Pass"
+    ]
+  },
+  {
+    "id": "p-054",
+    "name": "Granit Xhaka",
+    "club": "Bayer Leverkusen",
+    "nationality": "Switzerland",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "CB"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Orchestrator",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 70,
+      "shooting": 82,
+      "passing": 93,
+      "dribbling": 80,
+      "defending": 81,
+      "physical": 87
+    },
+    "skills": [
+      "Long Range Shooting",
+      "Weighted Pass",
+      "Captaincy",
+      "Interception"
+    ]
+  },
+  {
+    "id": "p-055",
+    "name": "Warren Zaïre-Emery",
+    "club": "Paris Saint-Germain",
+    "nationality": "France",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "RB",
+      "RMF"
+    ],
+    "overall_rating": 91,
+    "player_playstyle": "Box-to-Box",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 84,
+      "shooting": 74,
+      "passing": 86,
+      "dribbling": 86,
+      "defending": 79,
+      "physical": 84
+    },
+    "skills": [
+      "Interception",
+      "Fighting Spirit",
+      "One-touch Pass",
+      "Track Back"
+    ]
+  },
+  {
+    "id": "p-056",
+    "name": "Kobbie Mainoo",
+    "club": "Manchester United",
+    "nationality": "England",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "AMF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Orchestrator",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 78,
+      "shooting": 75,
+      "passing": 88,
+      "dribbling": 90,
+      "defending": 77,
+      "physical": 80
+    },
+    "skills": [
+      "Sole Control",
+      "One-touch Pass",
+      "Through Passing",
+      "Interception"
+    ]
+  },
+  {
+    "id": "p-057",
+    "name": "Bruno Guimarães",
+    "club": "Newcastle United",
+    "nationality": "Brazil",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "AMF"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Orchestrator",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 77,
+      "shooting": 78,
+      "passing": 90,
+      "dribbling": 87,
+      "defending": 80,
+      "physical": 84
+    },
+    "skills": [
+      "Through Passing",
+      "Fighting Spirit",
+      "Interception",
+      "One-touch Pass"
+    ]
+  },
+  {
+    "id": "p-058",
+    "name": "Douglas Luiz",
+    "club": "Juventus",
+    "nationality": "Brazil",
+    "primary_position": "CMF",
+    "secondary_positions": [
+      "DMF",
+      "AMF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Box-to-Box",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 77,
+      "shooting": 80,
+      "passing": 88,
+      "dribbling": 84,
+      "defending": 78,
+      "physical": 82
+    },
+    "skills": [
+      "Long Range Shooting",
+      "Through Passing",
+      "Interception",
+      "Penalty Specialist"
+    ]
+  },
+  {
+    "id": "p-059",
+    "name": "Rodri",
+    "club": "Manchester B (Man City)",
+    "nationality": "Spain",
+    "primary_position": "DMF",
+    "secondary_positions": [
+      "CMF",
+      "CB"
+    ],
+    "overall_rating": 98,
+    "player_playstyle": "Anchor Man",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 75,
+      "shooting": 84,
+      "passing": 93,
+      "dribbling": 85,
+      "defending": 94,
+      "physical": 92
+    },
+    "skills": [
+      "Interception",
+      "Blocker",
+      "Through Passing",
+      "Long Range Shooting"
+    ]
+  },
+  {
+    "id": "p-060",
+    "name": "Declan Rice",
+    "club": "Arsenal",
+    "nationality": "England",
+    "primary_position": "DMF",
+    "secondary_positions": [
+      "CMF",
+      "CB"
+    ],
+    "overall_rating": 95,
+    "player_playstyle": "The Destroyer",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 81,
+      "shooting": 76,
+      "passing": 87,
+      "dribbling": 83,
+      "defending": 92,
+      "physical": 90
+    },
+    "skills": [
+      "Interception",
+      "Blocker",
+      "Aerial Superiority",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-061",
+    "name": "Aurélien Tchouaméni",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "France",
+    "primary_position": "DMF",
+    "secondary_positions": [
+      "CB",
+      "CMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Anchor Man",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 80,
+      "shooting": 78,
+      "passing": 86,
+      "dribbling": 82,
+      "defending": 91,
+      "physical": 90
+    },
+    "skills": [
+      "Interception",
+      "Blocker",
+      "Aerial Superiority",
+      "Long Range Shooting"
+    ]
+  },
+  {
+    "id": "p-062",
+    "name": "Joshua Kimmich",
+    "club": "Bayern München",
+    "nationality": "Germany",
+    "primary_position": "DMF",
+    "secondary_positions": [
+      "RB",
+      "CMF",
+      "RMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Orchestrator",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 76,
+      "shooting": 78,
+      "passing": 94,
+      "dribbling": 86,
+      "defending": 84,
+      "physical": 79
+    },
+    "skills": [
+      "Pinpoint Crossing",
+      "Weighted Pass",
+      "Captaincy",
+      "Interception"
+    ]
+  },
+  {
+    "id": "p-063",
+    "name": "Hakan Çalhanoğlu",
+    "club": "Inter Milano",
+    "nationality": "Turkey",
+    "primary_position": "DMF",
+    "secondary_positions": [
+      "CMF",
+      "AMF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Orchestrator",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 74,
+      "shooting": 86,
+      "passing": 93,
+      "dribbling": 85,
+      "defending": 79,
+      "physical": 77
+    },
+    "skills": [
+      "Penalty Specialist",
+      "Long Range Shooting",
+      "Through Passing",
+      "Knuckle Shot"
+    ]
+  },
+  {
+    "id": "p-064",
+    "name": "Moisés Caicedo",
+    "club": "Chelsea",
+    "nationality": "Ecuador",
+    "primary_position": "DMF",
+    "secondary_positions": [
+      "CMF",
+      "RB"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "The Destroyer",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 82,
+      "shooting": 68,
+      "passing": 84,
+      "dribbling": 83,
+      "defending": 90,
+      "physical": 87
+    },
+    "skills": [
+      "Interception",
+      "Fighting Spirit",
+      "Blocker",
+      "Track Back"
+    ]
+  },
+  {
+    "id": "p-065",
+    "name": "João Palhinha",
+    "club": "Bayern München",
+    "nationality": "Portugal",
+    "primary_position": "DMF",
+    "secondary_positions": [
+      "CB"
+    ],
+    "overall_rating": 91,
+    "player_playstyle": "The Destroyer",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 73,
+      "shooting": 68,
+      "passing": 78,
+      "dribbling": 76,
+      "defending": 93,
+      "physical": 92
+    },
+    "skills": [
+      "Sliding Tackle",
+      "Interception",
+      "Blocker",
+      "Aerial Superiority"
+    ]
+  },
+  {
+    "id": "p-066",
+    "name": "Virgil van Dijk",
+    "club": "Liverpool",
+    "nationality": "Netherlands",
+    "primary_position": "CB",
+    "secondary_positions": [],
+    "overall_rating": 96,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 79,
+      "shooting": 60,
+      "passing": 80,
+      "dribbling": 72,
+      "defending": 97,
+      "physical": 94
+    },
+    "skills": [
+      "Aerial Superiority",
+      "Interception",
+      "Blocker",
+      "Captaincy"
+    ]
+  },
+  {
+    "id": "p-067",
+    "name": "Rúben Dias",
+    "club": "Manchester B (Man City)",
+    "nationality": "Portugal",
+    "primary_position": "CB",
+    "secondary_positions": [],
+    "overall_rating": 95,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 77,
+      "shooting": 48,
+      "passing": 78,
+      "dribbling": 70,
+      "defending": 96,
+      "physical": 92
+    },
+    "skills": [
+      "Blocker",
+      "Interception",
+      "Captaincy",
+      "Heading"
+    ]
+  },
+  {
+    "id": "p-068",
+    "name": "William Saliba",
+    "club": "Arsenal",
+    "nationality": "France",
+    "primary_position": "CB",
+    "secondary_positions": [
+      "RB"
+    ],
+    "overall_rating": 95,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 84,
+      "shooting": 45,
+      "passing": 80,
+      "dribbling": 76,
+      "defending": 96,
+      "physical": 90
+    },
+    "skills": [
+      "Interception",
+      "Blocker",
+      "Aerial Superiority",
+      "Man Marking"
+    ]
+  },
+  {
+    "id": "p-069",
+    "name": "Gabriel Magalhães",
+    "club": "Arsenal",
+    "nationality": "Brazil",
+    "primary_position": "CB",
+    "secondary_positions": [],
+    "overall_rating": 93,
+    "player_playstyle": "The Destroyer",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 78,
+      "shooting": 55,
+      "passing": 74,
+      "dribbling": 68,
+      "defending": 94,
+      "physical": 92
+    },
+    "skills": [
+      "Heading",
+      "Aerial Superiority",
+      "Blocker",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-070",
+    "name": "Antonio Rüdiger",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "Germany",
+    "primary_position": "CB",
+    "secondary_positions": [
+      "RB",
+      "LB"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "The Destroyer",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 86,
+      "shooting": 55,
+      "passing": 73,
+      "dribbling": 70,
+      "defending": 95,
+      "physical": 93
+    },
+    "skills": [
+      "Man Marking",
+      "Interception",
+      "Acrobatic Clearance",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-071",
+    "name": "Alessandro Bastoni",
+    "club": "Inter Milano",
+    "nationality": "Italy",
+    "primary_position": "CB",
+    "secondary_positions": [
+      "LB"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Extra Frontman",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 80,
+      "shooting": 50,
+      "passing": 86,
+      "dribbling": 79,
+      "defending": 94,
+      "physical": 88
+    },
+    "skills": [
+      "Pinpoint Crossing",
+      "Interception",
+      "Weighted Pass",
+      "Blocker"
+    ]
+  },
+  {
+    "id": "p-072",
+    "name": "Joško Gvardiol",
+    "club": "Manchester B (Man City)",
+    "nationality": "Croatia",
+    "primary_position": "CB",
+    "secondary_positions": [
+      "LB",
+      "LMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 83,
+      "shooting": 68,
+      "passing": 82,
+      "dribbling": 81,
+      "defending": 93,
+      "physical": 89
+    },
+    "skills": [
+      "Interception",
+      "Acrobatic Clearance",
+      "Blocker",
+      "Long Range Shooting"
+    ]
+  },
+  {
+    "id": "p-073",
+    "name": "Ronald Araújo",
+    "club": "Barcelona",
+    "nationality": "Uruguay",
+    "primary_position": "CB",
+    "secondary_positions": [
+      "RB"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 86,
+      "shooting": 50,
+      "passing": 70,
+      "dribbling": 68,
+      "defending": 94,
+      "physical": 92
+    },
+    "skills": [
+      "Aerial Superiority",
+      "Interception",
+      "Fighting Spirit",
+      "Speeding Bullet"
+    ]
+  },
+  {
+    "id": "p-074",
+    "name": "Marquinhos",
+    "club": "Paris Saint-Germain",
+    "nationality": "Brazil",
+    "primary_position": "CB",
+    "secondary_positions": [
+      "DMF",
+      "RB"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 81,
+      "shooting": 52,
+      "passing": 79,
+      "dribbling": 74,
+      "defending": 94,
+      "physical": 86
+    },
+    "skills": [
+      "Captaincy",
+      "Interception",
+      "Blocker",
+      "Aerial Superiority"
+    ]
+  },
+  {
+    "id": "p-075",
+    "name": "Éder Militão",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "Brazil",
+    "primary_position": "CB",
+    "secondary_positions": [
+      "RB"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 85,
+      "shooting": 52,
+      "passing": 74,
+      "dribbling": 72,
+      "defending": 93,
+      "physical": 88
+    },
+    "skills": [
+      "Aerial Superiority",
+      "Interception",
+      "Heading",
+      "Acrobatic Clearance"
+    ]
+  },
+  {
+    "id": "p-076",
+    "name": "John Stones",
+    "club": "Manchester B (Man City)",
+    "nationality": "England",
+    "primary_position": "CB",
+    "secondary_positions": [
+      "DMF",
+      "RB"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Extra Frontman",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 76,
+      "shooting": 62,
+      "passing": 84,
+      "dribbling": 81,
+      "defending": 92,
+      "physical": 85
+    },
+    "skills": [
+      "Through Passing",
+      "Interception",
+      "Blocker",
+      "Heading"
+    ]
+  },
+  {
+    "id": "p-077",
+    "name": "Cristian Romero",
+    "club": "Tottenham Hotspur",
+    "nationality": "Argentina",
+    "primary_position": "CB",
+    "secondary_positions": [],
+    "overall_rating": 92,
+    "player_playstyle": "The Destroyer",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 80,
+      "shooting": 54,
+      "passing": 73,
+      "dribbling": 71,
+      "defending": 94,
+      "physical": 90
+    },
+    "skills": [
+      "Fighting Spirit",
+      "Sliding Tackle",
+      "Interception",
+      "Man Marking"
+    ]
+  },
+  {
+    "id": "p-078",
+    "name": "Kim Min-jae",
+    "club": "Bayern München",
+    "nationality": "South Korea",
+    "primary_position": "CB",
+    "secondary_positions": [],
+    "overall_rating": 92,
+    "player_playstyle": "The Destroyer",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 82,
+      "shooting": 48,
+      "passing": 72,
+      "dribbling": 68,
+      "defending": 93,
+      "physical": 92
+    },
+    "skills": [
+      "Aerial Superiority",
+      "Interception",
+      "Blocker",
+      "Man Marking"
+    ]
+  },
+  {
+    "id": "p-079",
+    "name": "Jonathan Tah",
+    "club": "Bayer Leverkusen",
+    "nationality": "Germany",
+    "primary_position": "CB",
+    "secondary_positions": [],
+    "overall_rating": 92,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 81,
+      "shooting": 48,
+      "passing": 75,
+      "dribbling": 69,
+      "defending": 93,
+      "physical": 94
+    },
+    "skills": [
+      "Aerial Superiority",
+      "Interception",
+      "Blocker",
+      "Heading"
+    ]
+  },
+  {
+    "id": "p-080",
+    "name": "Lisandro Martínez",
+    "club": "Manchester United",
+    "nationality": "Argentina",
+    "primary_position": "CB",
+    "secondary_positions": [
+      "LB",
+      "DMF"
+    ],
+    "overall_rating": 91,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 78,
+      "shooting": 56,
+      "passing": 85,
+      "dribbling": 80,
+      "defending": 92,
+      "physical": 86
+    },
+    "skills": [
+      "Fighting Spirit",
+      "Interception",
+      "Through Passing",
+      "Sliding Tackle"
+    ]
+  },
+  {
+    "id": "p-081",
+    "name": "Pau Cubarsí",
+    "club": "Barcelona",
+    "nationality": "Spain",
+    "primary_position": "CB",
+    "secondary_positions": [],
+    "overall_rating": 90,
+    "player_playstyle": "Build Up",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 76,
+      "shooting": 45,
+      "passing": 86,
+      "dribbling": 77,
+      "defending": 91,
+      "physical": 82
+    },
+    "skills": [
+      "Through Passing",
+      "Interception",
+      "Weighted Pass",
+      "Acrobatic Clearance"
+    ]
+  },
+  {
+    "id": "p-082",
+    "name": "Theo Hernández",
+    "club": "AC Milan",
+    "nationality": "France",
+    "primary_position": "LB",
+    "secondary_positions": [
+      "LMF",
+      "CB"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Attacking Full-back",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 97,
+      "shooting": 76,
+      "passing": 81,
+      "dribbling": 85,
+      "defending": 82,
+      "physical": 89
+    },
+    "skills": [
+      "Speeding Bullet",
+      "Interception",
+      "Pinpoint Crossing",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-083",
+    "name": "Alphonso Davies",
+    "club": "Bayern München",
+    "nationality": "Canada",
+    "primary_position": "LB",
+    "secondary_positions": [
+      "LMF",
+      "LWF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Attacking Full-back",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 98,
+      "shooting": 71,
+      "passing": 80,
+      "dribbling": 88,
+      "defending": 79,
+      "physical": 82
+    },
+    "skills": [
+      "Speeding Bullet",
+      "Double Touch",
+      "Pinpoint Crossing",
+      "Interception"
+    ]
+  },
+  {
+    "id": "p-084",
+    "name": "Federico Dimarco",
+    "club": "Inter Milano",
+    "nationality": "Italy",
+    "primary_position": "LB",
+    "secondary_positions": [
+      "LMF",
+      "CB"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Cross Specialist",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 84,
+      "shooting": 80,
+      "passing": 92,
+      "dribbling": 83,
+      "defending": 78,
+      "physical": 76
+    },
+    "skills": [
+      "Pinpoint Crossing",
+      "Long Range Curler",
+      "Outside Curler",
+      "Through Passing"
+    ]
+  },
+  {
+    "id": "p-085",
+    "name": "Trent Alexander-Arnold",
+    "club": "Liverpool",
+    "nationality": "England",
+    "primary_position": "RB",
+    "secondary_positions": [
+      "CMF",
+      "RMF",
+      "DMF"
+    ],
+    "overall_rating": 94,
+    "player_playstyle": "Cross Specialist",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 80,
+      "shooting": 80,
+      "passing": 97,
+      "dribbling": 82,
+      "defending": 76,
+      "physical": 76
+    },
+    "skills": [
+      "Pinpoint Crossing",
+      "Weighted Pass",
+      "Long Range Shooting",
+      "Outside Curler"
+    ]
+  },
+  {
+    "id": "p-086",
+    "name": "Achraf Hakimi",
+    "club": "Paris Saint-Germain",
+    "nationality": "Morocco",
+    "primary_position": "RB",
+    "secondary_positions": [
+      "RMF",
+      "LB",
+      "LMF",
+      "RWF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Attacking Full-back",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 96,
+      "shooting": 76,
+      "passing": 82,
+      "dribbling": 85,
+      "defending": 79,
+      "physical": 80
+    },
+    "skills": [
+      "Speeding Bullet",
+      "Pinpoint Crossing",
+      "Interception",
+      "Acrobatic Finishing"
+    ]
+  },
+  {
+    "id": "p-087",
+    "name": "Dani Carvajal",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "Spain",
+    "primary_position": "RB",
+    "secondary_positions": [
+      "RMF",
+      "CB"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Attacking Full-back",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 82,
+      "shooting": 64,
+      "passing": 83,
+      "dribbling": 81,
+      "defending": 88,
+      "physical": 84
+    },
+    "skills": [
+      "Fighting Spirit",
+      "Interception",
+      "Pinpoint Crossing",
+      "Heading"
+    ]
+  },
+  {
+    "id": "p-088",
+    "name": "Jules Koundé",
+    "club": "Barcelona",
+    "nationality": "France",
+    "primary_position": "RB",
+    "secondary_positions": [
+      "CB"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Defensive Full-back",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 85,
+      "shooting": 50,
+      "passing": 79,
+      "dribbling": 78,
+      "defending": 92,
+      "physical": 86
+    },
+    "skills": [
+      "Man Marking",
+      "Interception",
+      "Blocker",
+      "Aerial Superiority"
+    ]
+  },
+  {
+    "id": "p-089",
+    "name": "Jeremie Frimpong",
+    "club": "Bayer Leverkusen",
+    "nationality": "Netherlands",
+    "primary_position": "RMF",
+    "secondary_positions": [
+      "RB",
+      "RWF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Attacking Full-back",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 98,
+      "shooting": 76,
+      "passing": 80,
+      "dribbling": 89,
+      "defending": 72,
+      "physical": 75
+    },
+    "skills": [
+      "Speeding Bullet",
+      "Double Touch",
+      "First-time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-090",
+    "name": "Alejandro Grimaldo",
+    "club": "Bayer Leverkusen",
+    "nationality": "Spain",
+    "primary_position": "LMF",
+    "secondary_positions": [
+      "LB",
+      "CMF"
+    ],
+    "overall_rating": 93,
+    "player_playstyle": "Cross Specialist",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 82,
+      "shooting": 83,
+      "passing": 91,
+      "dribbling": 86,
+      "defending": 76,
+      "physical": 74
+    },
+    "skills": [
+      "Pinpoint Crossing",
+      "Long Range Curler",
+      "Through Passing",
+      "Knuckle Shot"
+    ]
+  },
+  {
+    "id": "p-091",
+    "name": "Kyle Walker",
+    "club": "Manchester B (Man City)",
+    "nationality": "England",
+    "primary_position": "RB",
+    "secondary_positions": [
+      "CB",
+      "RMF"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Defensive Full-back",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 93,
+      "shooting": 60,
+      "passing": 76,
+      "dribbling": 77,
+      "defending": 88,
+      "physical": 88
+    },
+    "skills": [
+      "Speeding Bullet",
+      "Interception",
+      "Man Marking",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-092",
+    "name": "Andrew Robertson",
+    "club": "Liverpool",
+    "nationality": "Scotland",
+    "primary_position": "LB",
+    "secondary_positions": [
+      "LMF"
+    ],
+    "overall_rating": 92,
+    "player_playstyle": "Full-back Finisher",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 84,
+      "shooting": 65,
+      "passing": 88,
+      "dribbling": 79,
+      "defending": 84,
+      "physical": 82
+    },
+    "skills": [
+      "Pinpoint Crossing",
+      "Interception",
+      "Captaincy",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-093",
+    "name": "Nuno Mendes",
+    "club": "Paris Saint-Germain",
+    "nationality": "Portugal",
+    "primary_position": "LB",
+    "secondary_positions": [
+      "LMF"
+    ],
+    "overall_rating": 91,
+    "player_playstyle": "Attacking Full-back",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 94,
+      "shooting": 68,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 80,
+      "physical": 81
+    },
+    "skills": [
+      "Speeding Bullet",
+      "Interception",
+      "Pinpoint Crossing",
+      "Double Touch"
+    ]
+  },
+  {
+    "id": "p-094",
+    "name": "Destiny Udogie",
+    "club": "Tottenham Hotspur",
+    "nationality": "Italy",
+    "primary_position": "LB",
+    "secondary_positions": [
+      "LMF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Full-back Finisher",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 88,
+      "shooting": 68,
+      "passing": 78,
+      "dribbling": 83,
+      "defending": 81,
+      "physical": 85
+    },
+    "skills": [
+      "Interception",
+      "Fighting Spirit",
+      "Blocker",
+      "Track Back"
+    ]
+  },
+  {
+    "id": "p-095",
+    "name": "Pedro Porro",
+    "club": "Tottenham Hotspur",
+    "nationality": "Spain",
+    "primary_position": "RB",
+    "secondary_positions": [
+      "RMF"
+    ],
+    "overall_rating": 90,
+    "player_playstyle": "Attacking Full-back",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 86,
+      "shooting": 76,
+      "passing": 84,
+      "dribbling": 82,
+      "defending": 79,
+      "physical": 80
+    },
+    "skills": [
+      "Long Range Shooting",
+      "Pinpoint Crossing",
+      "Interception",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-096",
+    "name": "Thibaut Courtois",
+    "club": "Real Chamartin (Real Madrid)",
+    "nationality": "Belgium",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 96,
+    "player_playstyle": "Defensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 48,
+      "shooting": 20,
+      "passing": 68,
+      "dribbling": 52,
+      "defending": 96,
+      "physical": 90
+    },
+    "skills": [
+      "GK High Punt",
+      "GK Long Throw",
+      "Penalty Saver"
+    ]
+  },
+  {
+    "id": "p-097",
+    "name": "Alisson Becker",
+    "club": "Liverpool",
+    "nationality": "Brazil",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 96,
+    "player_playstyle": "Offensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 54,
+      "shooting": 25,
+      "passing": 80,
+      "dribbling": 60,
+      "defending": 96,
+      "physical": 88
+    },
+    "skills": [
+      "GK Low Punt",
+      "GK Long Throw",
+      "Penalty Saver",
+      "Captaincy"
+    ]
+  },
+  {
+    "id": "p-098",
+    "name": "Ederson Moraes",
+    "club": "Manchester B (Man City)",
+    "nationality": "Brazil",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 95,
+    "player_playstyle": "Offensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 60,
+      "shooting": 30,
+      "passing": 88,
+      "dribbling": 68,
+      "defending": 94,
+      "physical": 86
+    },
+    "skills": [
+      "GK Low Punt",
+      "GK Long Throw",
+      "Through Passing",
+      "Penalty Saver"
+    ]
+  },
+  {
+    "id": "p-099",
+    "name": "Mike Maignan",
+    "club": "AC Milan",
+    "nationality": "France",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 94,
+    "player_playstyle": "Offensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 52,
+      "shooting": 22,
+      "passing": 75,
+      "dribbling": 55,
+      "defending": 94,
+      "physical": 87
+    },
+    "skills": [
+      "GK Low Punt",
+      "Penalty Saver",
+      "GK Long Throw"
+    ]
+  },
+  {
+    "id": "p-100",
+    "name": "Marc-André ter Stegen",
+    "club": "Barcelona",
+    "nationality": "Germany",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 94,
+    "player_playstyle": "Offensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 50,
+      "shooting": 22,
+      "passing": 82,
+      "dribbling": 62,
+      "defending": 94,
+      "physical": 85
+    },
+    "skills": [
+      "GK Low Punt",
+      "Penalty Saver",
+      "Captaincy"
+    ]
+  },
+  {
+    "id": "p-101",
+    "name": "Gianluigi Donnarumma",
+    "club": "Paris Saint-Germain",
+    "nationality": "Italy",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 94,
+    "player_playstyle": "Defensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 46,
+      "shooting": 18,
+      "passing": 68,
+      "dribbling": 50,
+      "defending": 95,
+      "physical": 92
+    },
+    "skills": [
+      "GK High Punt",
+      "Penalty Saver",
+      "GK Long Throw"
+    ]
+  },
+  {
+    "id": "p-102",
+    "name": "Jan Oblak",
+    "club": "Atlético Madrid",
+    "nationality": "Slovenia",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 94,
+    "player_playstyle": "Defensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 45,
+      "shooting": 18,
+      "passing": 65,
+      "dribbling": 48,
+      "defending": 95,
+      "physical": 89
+    },
+    "skills": [
+      "GK High Punt",
+      "Captaincy",
+      "Penalty Saver"
+    ]
+  },
+  {
+    "id": "p-103",
+    "name": "Emiliano Martínez",
+    "club": "Aston Villa",
+    "nationality": "Argentina",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 93,
+    "player_playstyle": "Defensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 48,
+      "shooting": 20,
+      "passing": 72,
+      "dribbling": 54,
+      "defending": 94,
+      "physical": 90
+    },
+    "skills": [
+      "Penalty Saver",
+      "GK Low Punt",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "p-104",
+    "name": "David Raya",
+    "club": "Arsenal",
+    "nationality": "Spain",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 92,
+    "player_playstyle": "Offensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 55,
+      "shooting": 24,
+      "passing": 84,
+      "dribbling": 62,
+      "defending": 92,
+      "physical": 84
+    },
+    "skills": [
+      "GK Low Punt",
+      "Penalty Saver",
+      "GK Long Throw"
+    ]
+  },
+  {
+    "id": "p-105",
+    "name": "Gregor Kobel",
+    "club": "Borussia Dortmund",
+    "nationality": "Switzerland",
+    "primary_position": "GK",
+    "secondary_positions": [],
+    "overall_rating": 92,
+    "player_playstyle": "Defensive Goalkeeper",
+    "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=150&auto=format&fit=crop&q=80",
+    "key_stats": {
+      "pace": 48,
+      "shooting": 18,
+      "passing": 68,
+      "dribbling": 50,
+      "defending": 93,
+      "physical": 88
+    },
+    "skills": [
+      "Penalty Saver",
+      "GK High Punt",
+      "Fighting Spirit"
+    ]
+  }
+]
