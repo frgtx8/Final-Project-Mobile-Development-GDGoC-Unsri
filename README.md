@@ -194,6 +194,35 @@ Running Gradle task 'assembleDebug'...
 00:07 +1: All tests passed!
 ```
 
+### 📸 Bukti Tangkapan Layar Pengujian Otomatis:
+| Unit Testing | Widget Testing | Integration Testing |
+| :---: | :---: | :---: |
+| ![Unit Test](screenshots/SS_Unit_Test.png) | ![Widget Test](screenshots/SS_Widget_Test.png) | ![Integration Test](screenshots/SS_Integration_Test.png) |
+
+---
+
+## 📱 Galeri Tangkapan Layar Aplikasi (Screenshots Showcase)
+
+### 1. Taktik & Lapangan Skuad Interaktif
+| Mode Pengguna (User) | Mode Administrator (Admin) |
+| :---: | :---: |
+| ![Taktik User](screenshots/SS_Taktik_User.png) | ![Taktik Admin](screenshots/SS_Taktik_Admin.png) |
+
+### 2. Fitur Kecerdasan Buatan (AI Doctor & AI Scout)
+| Mode Pengguna (User) | Mode Administrator (Admin) |
+| :---: | :---: |
+| ![AI User](screenshots/SS_AI_User.png) | ![AI Admin](screenshots/SS_AI_Admin.png) |
+
+### 3. Database Pemain & Form Tambah Pemain Admin
+| Database Pemain (User) | Tambah Pemain (Admin Cloud Sync) |
+| :---: | :---: |
+| ![Pemain User](screenshots/SS_Pemain_User.png) | ![Tambah Pemain Admin](screenshots/SS_TambahPemain_Admin.png) |
+
+### 4. Komunitas Taktik Meta & Profil Akun
+| Komunitas Meta Taktik (Supabase) | Profil Akun Pengguna |
+| :---: | :---: |
+| ![Komunitas User](screenshots/SS_Comunity_User.png) | ![Profil User](screenshots/SS_Profil_User.png) |
+
 ---
 
 ## 👨‍💻 Kontributor
