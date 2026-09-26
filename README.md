@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="screenshots/app_logo.png" alt="eFootyTactics AI Logo" width="130" style="border-radius: 26px;" />
+
 # ⚽ eFootyTactics AI
 
 > **Smart Squad Builder, AI Meta Coach & Player Guide for eFootball Mobile**  
@@ -9,6 +13,8 @@
 [![AI Engine](https://img.shields.io/badge/AI-Gemini%20Flash-8E75B2?logo=google)](https://deepmind.google/technologies/gemini/)
 [![Tests](https://img.shields.io/badge/Tests-32%20Passed-success)](#-hasil-pengujian-otomatis-automated-testing)
 [![Integration Test](https://img.shields.io/badge/Integration%20Test-Passed-success)](#3-integration-tests-integration_test)
+
+</div>
 
 ---
 

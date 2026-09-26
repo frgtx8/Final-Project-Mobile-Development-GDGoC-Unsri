@@ -188,6 +188,20 @@ class _SquadBuilderScreenState extends ConsumerState<SquadBuilderScreen> {
 
     return Scaffold(
       appBar: AppBar(
+        leading: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: ClipRRect(
+            borderRadius: BorderRadius.circular(10),
+            child: Image.asset(
+              'assets/images/logo.png',
+              fit: BoxFit.cover,
+              errorBuilder: (_, __, ___) => const Icon(
+                Icons.sports_soccer,
+                color: AppColors.primaryNeon,
+              ),
+            ),
+          ),
+        ),
         title: InkWell(
           onTap: () => _showEditSquadNameDialog(context),
           child: Row(

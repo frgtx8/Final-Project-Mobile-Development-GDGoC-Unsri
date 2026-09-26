@@ -156,15 +156,36 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            // Branding Icon
-            const Center(
-              child: CircleAvatar(
-                radius: 36,
-                backgroundColor: AppColors.surfaceLight,
-                child: Icon(
-                  Icons.sports_soccer,
-                  size: 40,
-                  color: AppColors.primaryNeon,
+            // Branding Logo
+            Center(
+              child: Container(
+                width: 76,
+                height: 76,
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(18),
+                  boxShadow: [
+                    BoxShadow(
+                      color: AppColors.primaryNeon.withValues(alpha: 0.35),
+                      blurRadius: 18,
+                      spreadRadius: 2,
+                    ),
+                  ],
+                ),
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(18),
+                  child: Image.asset(
+                    'assets/images/logo.png',
+                    fit: BoxFit.cover,
+                    errorBuilder: (context, error, stackTrace) =>
+                        const CircleAvatar(
+                      backgroundColor: AppColors.surfaceLight,
+                      child: Icon(
+                        Icons.sports_soccer,
+                        size: 40,
+                        color: AppColors.primaryNeon,
+                      ),
+                    ),
+                  ),
                 ),
               ),
             ),
