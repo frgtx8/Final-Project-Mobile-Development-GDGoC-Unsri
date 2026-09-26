@@ -207,12 +207,16 @@ class _SquadBuilderScreenState extends ConsumerState<SquadBuilderScreen> {
           child: Row(
             mainAxisSize: MainAxisSize.min,
             children: [
-              Text(
-                squadState.squadName,
-                style: const TextStyle(fontSize: 16),
+              Flexible(
+                child: Text(
+                  squadState.squadName,
+                  style: const TextStyle(fontSize: 15),
+                  overflow: TextOverflow.ellipsis,
+                  maxLines: 1,
+                ),
               ),
-              const SizedBox(width: 6),
-              const Icon(Icons.edit, size: 14, color: AppColors.textMuted),
+              const SizedBox(width: 4),
+              const Icon(Icons.edit, size: 13, color: AppColors.textMuted),
             ],
           ),
         ),

@@ -7,6 +7,7 @@ import 'core/theme/app_theme.dart';
 import 'features/ai_coach/presentation/ai_scout_screen.dart';
 import 'features/community/presentation/community_tactics_screen.dart';
 import 'features/players/presentation/player_list_screen.dart';
+import 'features/splash/presentation/splash_screen.dart';
 import 'features/squad/presentation/saved_squads_screen.dart';
 import 'features/squad/presentation/squad_builder_screen.dart';
 
@@ -27,7 +28,8 @@ void main() async {
 }
 
 class EFootyTacticsApp extends StatelessWidget {
-  const EFootyTacticsApp({super.key});
+  final Widget? home;
+  const EFootyTacticsApp({super.key, this.home});
 
   @override
   Widget build(BuildContext context) {
@@ -35,7 +37,7 @@ class EFootyTacticsApp extends StatelessWidget {
       title: 'eFootyTactics AI',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.darkTheme,
-      home: const MainNavigationScreen(),
+      home: home ?? const SplashScreen(),
     );
   }
 }

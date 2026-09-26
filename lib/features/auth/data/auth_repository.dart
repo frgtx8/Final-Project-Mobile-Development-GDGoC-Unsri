@@ -49,11 +49,91 @@ class AuthRepository {
     final isGuestLoggedIn = prefs.getBool('is_guest_logged_in') ?? false;
     final isAdmin = prefs.getBool('is_admin_mode') ?? false;
     if (isGuestLoggedIn) {
+      final guestUsername = prefs.getString('guest_username');
+      final guestClub = prefs.getString('guest_favorite_club');
+      final guestPlaystyle = prefs.getString('guest_favorite_playstyle');
       _currentUser = UserProfile.guest(asAdmin: isAdmin);
+      if (guestUsername != null || guestClub != null || guestPlaystyle != null) {
+        _currentUser = _currentUser!.copyWith(
+          username: guestUsername,
+          favoriteClub: guestClub,
+          favoritePlaystyle: guestPlaystyle,
+        );
+      }
       return _currentUser;
     }
 
     return null;
+  }
+
+  Future<void> sendPasswordResetEmail(String email) async {
+    final trimmed = email.trim();
+    if (trimmed.isEmpty) {
+      throw Exception('Harap masukkan alamat email.');
+    }
+    if (!SupabaseService.isInitialized) {
+      throw Exception('Layanan backend belum terhubung. Periksa konfigurasi .env');
+    }
+    try {
+      await SupabaseService.client!.auth.resetPasswordForEmail(trimmed);
+    } catch (e) {
+      final err = e.toString().toLowerCase();
+      if (err.contains('network') || err.contains('socket') || err.contains('timeout')) {
+        throw Exception('Koneksi internet bermasalah. Periksa koneksi Anda.');
+      }
+      final cleanMsg = e.toString().replaceAll('Exception: ', '').trim();
+      throw Exception(cleanMsg.isNotEmpty ? cleanMsg : 'Gagal mengirim email reset password.');
+    }
+  }
+
+  Future<UserProfile> updateProfile({
+    required String username,
+    required String favoriteClub,
+    required String favoritePlaystyle,
+  }) async {
+    final trimmedUsername = username.trim();
+    if (trimmedUsername.isEmpty) {
+      throw Exception('Username Manager tidak boleh kosong.');
+    }
+
+    if (_currentUser == null) {
+      throw Exception('Pengguna belum masuk.');
+    }
+
+    // 1. If logged in via Supabase
+    if (SupabaseService.isInitialized && !_currentUser!.isGuest) {
+      final client = SupabaseService.client!;
+      try {
+        await client.from('profiles').update({
+          'username': trimmedUsername,
+          'favorite_club': favoriteClub,
+          'favorite_playstyle': favoritePlaystyle,
+        }).eq('id', _currentUser!.id);
+      } catch (e) {
+        final err = e.toString().toLowerCase();
+        if (err.contains('duplicate') || err.contains('unique') || err.contains('23505') || err.contains('profiles_username_key')) {
+          throw Exception('Username "$trimmedUsername" sudah dipakai oleh manager lain.');
+        }
+        final cleanMsg = e.toString().replaceAll('Exception: ', '').trim();
+        throw Exception(cleanMsg.isNotEmpty ? cleanMsg : 'Gagal memperbarui profil di server.');
+      }
+    }
+
+    // 2. Update local state & SharedPreferences (for guests)
+    if (_currentUser!.isGuest) {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setString('guest_username', trimmedUsername);
+      await prefs.setString('guest_favorite_club', favoriteClub);
+      await prefs.setString('guest_favorite_playstyle', favoritePlaystyle);
+    }
+
+    _currentUser = _currentUser!.copyWith(
+      username: trimmedUsername,
+      favoriteClub: favoriteClub,
+      favoritePlaystyle: favoritePlaystyle,
+    );
+
+    return _currentUser!;
   }
 
   Future<UserProfile> signInWithEmail({

@@ -4,6 +4,7 @@ import '../../../core/constants/app_colors.dart';
 import '../../../main.dart';
 import '../../auth/presentation/auth_provider.dart';
 import '../../auth/presentation/auth_screen.dart';
+import '../../auth/presentation/edit_profile_dialog.dart';
 import '../domain/squad.dart';
 import 'squad_controller.dart';
 
@@ -119,22 +120,36 @@ class SavedSquadsScreen extends ConsumerWidget {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: [
-                      TextButton(
-                        onPressed: () {
-                          if (user == null || user.isGuest) {
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                  builder: (_) => const AuthScreen()),
-                            );
-                          } else {
-                            ref.read(authControllerProvider.notifier).signOut();
-                          }
-                        },
-                        child: Text(
-                          user == null || user.isGuest ? 'Login' : 'Keluar',
-                          style: const TextStyle(color: AppColors.primaryNeon),
-                        ),
+                      Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          IconButton(
+                            tooltip: 'Edit Profil Manager',
+                            padding: EdgeInsets.zero,
+                            constraints: const BoxConstraints(),
+                            icon: const Icon(Icons.edit_note,
+                                size: 22, color: AppColors.primaryNeon),
+                            onPressed: () => EditProfileDialog.show(context),
+                          ),
+                          const SizedBox(width: 8),
+                          TextButton(
+                            onPressed: () {
+                              if (user == null || user.isGuest) {
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                      builder: (_) => const AuthScreen()),
+                                );
+                              } else {
+                                ref.read(authControllerProvider.notifier).signOut();
+                              }
+                            },
+                            child: Text(
+                              user == null || user.isGuest ? 'Login' : 'Keluar',
+                              style: const TextStyle(color: AppColors.primaryNeon),
+                            ),
+                          ),
+                        ],
                       ),
                       OutlinedButton(
                         style: OutlinedButton.styleFrom(

@@ -56,8 +56,13 @@ Aplikasi ini dapat digunakan secara **Solo / Mandiri** (100% dapat diuji dan din
    * Fitur **"Salin Formasi"** (*One-tap Clone*) yang langsung memuat susunan taktik pemain lain ke Squad Builder pribadi.
 5. **Koleksi Skuad Saya (Cloud & Local Sync):**
    * Menyimpan racikan taktik tanpa batas ke database cloud Supabase dengan penyimpanan cadangan lokal (*offline-first*).
-6. **Autentikasi Fleksibel (Supabase Auth + Solo Guest Mode):**
-   * Mendukung registrasi/login email Supabase (dengan enkripsi JWT) serta opsi **Mode Solo / Tamu (Tanpa Login)** untuk kemudahan pengujian instan.
+6. **Autentikasi, Profil & Pengalaman Pengguna (UX Modern):**
+   * **Splash Screen Animasi Canggih:** Layar pembuka aplikasi dengan logo resmi bercahaya (*ambient cyber neon pulse*), animasi scale & fade, serta indikator loading status sebelum beralih ke beranda.
+   * **Pilihan Klub Favorit saat Pendaftaran:** Dropdown interaktif klub top dunia (Real Madrid, Arsenal, Barcelona, Man City, dll.) untuk personalisasi akun manager.
+   * **Indikator Syarat & Kekuatan Password:** Validasi visual real-time (minimal 6 karakter) dengan ikon status dan toggle sembunyikan/tampilkan password.
+   * **Fitur Lupa Password:** Dialog kirim tautan reset password langsung ke email manager melalui layanan Supabase Auth.
+   * **Fitur Edit Profil Manager:** Dialog interaktif untuk mengubah username, klub favorit, dan gaya main utama kapan saja via tab Koleksi.
+   * **Mode Solo / Tamu (Guest Mode):** Opsi login instan satu klik untuk mengevaluasi fitur tanpa registrasi manual.
 
 ---
 
